@@ -1,6 +1,9 @@
 # CRUD_operation_AWSLambda_PythonBoto3_APIGateway
 This project demonstrates a simple CRUD (Create, Read, Update, Delete) operation using AWS Lambda, Python boto3, and API Gateway to manage student data in a DynamoDB table.
 
+# Demonstration Video
+https://drive.google.com/file/d/1pcRKtbaQ8P3HDHyVX_XuZ5t-UbuFhcuV/view?usp=drivesdk
+
 # Features
 - Create: Add new student records.
 - Read: Retrieve details of a specific student or all students.
