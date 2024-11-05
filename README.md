@@ -30,7 +30,6 @@ https://drive.google.com/file/d/1pcRKtbaQ8P3HDHyVX_XuZ5t-UbuFhcuV/view?usp=drive
 # Endpoints
 - POST /students_api: Add a new student.
 - GET /students_api/{studentId}: Get details of a specific student.
-- GET /students_api: Get details of all students.
 - PUT /students_api/{studentId}: Update a student's information.
 - DELETE /students_api/{studentId}: Delete a student.
 
